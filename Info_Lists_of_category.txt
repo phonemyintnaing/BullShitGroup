@@ -1,0 +1,63 @@
+
+  -- VEHICLES --  
+Cars
+Motorcycles ( This category includes: motorbike, scooter, trishaw and tricycle )
+Car Accessories &amp; Parts
+Motorcycle Accessories &amp; Parts
+Other Accessories &amp; Parts 
+Commercial Vehicle &amp; Boats ( This category includes: ATVs, buggy, boat, bus, crane, excavator, forklift, loader, lorry, truck and van )
+
+  -- PROPERTIES --  
+Apartments
+Houses
+Commercial Properties
+Land
+Rooms
+New Properties
+
+  -- ELECTRONICS --  
+Mobile Phones &amp; Gadgets
+Accessories for Phones &amp; Gadgets
+TV/Audio/Video
+Computers &amp; Accessories
+Cameras &amp; Photography
+Games &amp; Consoles
+
+  -- HOME &amp; PERSONAL ITEMS --  
+Bags &amp; Wallets
+Shoes
+Watches &amp; Fashion Accessories
+Clothes
+Health &amp; Beauty
+Wedding
+Moms &amp; Kids
+Bed &amp; Bath
+Home Appliances &amp; Kitchen
+Furniture &amp; Decoration
+Garden Items
+
+  -- LEISURE/SPORTS/HOBBIES --  
+Textbooks
+Sports &amp; Outdoors
+Hobby &amp; Collectibles
+Music/Movies/Books/Magazines
+Pets
+Tickets &amp; Vouchers
+Music Instruments
+
+  -- BUSINESS TO BUSINESS --  
+Professional/Business Equipment
+Business for Sale
+
+  -- JOBS &amp; SERVICES --  
+Jobs
+Services
+
+  -- TRAVEL --  
+Accommodation &amp; Homestays
+Tours and Holidays
+
+  -- EVERYTHING ELSE --  
+Others
+Food
+Garage Sale
