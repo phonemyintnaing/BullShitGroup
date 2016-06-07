@@ -1,34 +1,33 @@
-Ahlon
-Bahan
-Dagon
-Kyauktada
-Kyimyindaing
-Lanmadaw
-Latha
-Pabedan
-Sanchaung
-Botataung
-Dagon Seikkan
-East Dagon
-Mingala Taungnyunt
-North Dagon
-North Okkalapa
-Pazundaung
-South Dagon
-South Okkalapa
-Thingangyun
-Dala
-Dawbon
-Seikkan
-Seikkyi Kanaungto
-Tamwe
-Thaketa
-Yankin
-Thanlyin
-Insein
-Hlaing
-Hlaingthaya
-Kamayut
-Mayangon
-Mingaladon
-Shwepyitha
+Ahlon Township  ( အလုံ )
+Bahan Township  ( ဗဟန်း  )
+Botataung Township  ( ဗိုလ်တစ်ထောင် )
+Dagon Seikkan Township  ( ဒဂုံဆိပ်ကမ်း )
+Dagon Township  ( ဒဂုံ )
+Dala Township  ( ဒလ )
+Dawbon Township  ( ဒေါပုံ )
+East Dagon Township  ( ဒဂုံမြို့သစ်အရှေ့ပိုင်း )
+Hlaing Township  ( လှိုင် )
+Hlaingthaya Township  ( လှိုင်သာယာ )
+Insein Township  ( အင်းစိန်  )
+Kamayut Township  ( ကမာရွတ် )
+Kyauktada Township  ( ကျောက်တံတား )
+Kyimyindaing Township  ( ကြည့်မြင်တိုင် )
+Lanmadaw Township  ( လမ်းမတော် )
+Latha Township  ( လသာ )
+Mayangon Township  ( မရမ်းကုန်း )
+Mingala Taungnyunt Township  ( မင်္ဂလာ‌တောင်ညွန့် )
+Mingaladon Township  ( မင်္ဂလာဒုံ )
+North Dagon Township  ( ဒဂုံမြို့သစ်တောင်ပိုင်း )
+North Okkalapa Township  ( မြောက်‌ဥက္ကလာပ )
+Pabedan Township  ( ပန်းဘဲတန်း )
+Pazundaung Township  ( ပုဇွန်တောင် )
+Sanchaung Township  ( စမ်းချောင်း )
+Seikkan Township  ( ဆိပ်ကမ်း )
+Seikkyi Kanaungto Township  ( ဆိပ်ကြီးခနောင်တို )
+Shwepyitha Township  ( ရွှေပြည်သာ )
+South Dagon Township  ( ဒဂုံမြို့သစ်တောင်ပိုင်း )
+South Okkalapa Township  ( တောင်ဥက္ကလာပ )
+Tamwe Township  ( တာမွေ )
+Thaketa Township  ( သာကေတ )
+Thingangyun Township  ( သင်္ဃန်းကျွန်း )
+Yankin Township  ( ရန်ကင်း )
